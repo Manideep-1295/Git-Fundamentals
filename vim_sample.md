@@ -37,27 +37,4 @@ Filters
     - When there is logical change
 2. Small Commits should made
 3. Message should be proper
-
-
-## VIM
-Vim is an editor which will only open in git bash command line
-- How to open vim?
-> vim filename
-- Shortcut in vim
-> verb + number + movement
-// VIM tutor & Vim games
-### Different verbs in VIM
-1. Move up - k
-2. MOve down - j
-3. Move left - h
-4. Move right - l
-5. Delete - d
-    - Delete one word - d + 1 (Where you want to delete a word)
-    - Delete multiple words - d + n (n words are deleted)
-    - Delete a line - d + d
-    - Delete a para - d + ip (inside para)
-    - Delete a selected word - d + iw (inside word)
-    - Delete characters till a particular char - d + char(ex:a,b,c)
-6. Save - w
-7. Exit - q
-8. To repeat recent command - .
+4. This line is edited using vim editor
