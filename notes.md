@@ -32,12 +32,15 @@ Filters
     - `<space>` - Page down
     - `n` - Next match
     - `N` - Prev match
+6. git log --graph -> To visualise 
 ### COMMIT
 1. Why Commit is needed?
     - When there is logical change
 2. Small Commits should made
 3. Message should be proper
 
+### Git Merge Flow
+![git merge flow](image-2.png)
 
 ## VIM
 Vim is an editor which will only open in git bash command line
@@ -60,4 +63,13 @@ Vim is an editor which will only open in git bash command line
     - Delete characters till a particular char - d + char(ex:a,b,c)
 6. Save - w
 7. Exit - q
+    - Force quit - q!
 8. To repeat recent command - .
+9. Select - v (Visual Select)
+10. Inside - i
+11. Around - a
+12. Cut - x
+13. Copy - y (Yank)
+    - Copy entire line - yy
+
+![More vim commands](image.png)
